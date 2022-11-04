@@ -1,0 +1,6 @@
+lafi 5, 6, 1
+swf 1(x0)
+lwr x1, 1(x0)
+mvf x2, f0
+mvf x3, f1
+mvf x4, f2

@@ -1,0 +1,4 @@
+addri t0, zero, 10
+lafi t0, t1, t2
+addri t1, t1, 1
+bne f1, f2, f0
